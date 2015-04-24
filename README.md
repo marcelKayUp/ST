@@ -1,2 +1,11 @@
-# ST
+# Project ST
 Logistics-themed turn based game in science fiction setting for mobile devices created with Unity
+
+to Do:
+- generalized data
+- fix load/save issue
+- AI decisions and actions
+- improve pathfinding (collision, slingshots)
+- gamification (achievements etc) 
+- overhaul ship models
+- delete testing functions
