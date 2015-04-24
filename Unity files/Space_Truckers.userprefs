@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\planet_rotation.js">
+    <Files>
+      <File FileName="Assets\scripts\bezier.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\game_menue_handler.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\rules.js" Line="567" Column="60" />
+      <File FileName="Assets\scripts\mobile_input_hanlder.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\planet_rotation.js" Line="65" Column="24" />
+      <File FileName="Assets\scripts\title_menue_gui_script.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
